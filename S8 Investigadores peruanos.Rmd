@@ -12,19 +12,20 @@ output: html_notebook
 
 ## Temas propuestos
                                                        
-Describir cualitativa y cuantitativamente a los investigadores registrados en el
-RENACYT Analizar la percepción sobre las próximas elecciones municipales y
-regionales por parte de alumnos de la UTEC Describir una relación entre perfiles
-de estudiantes y su desempeño académico
+- Describir cualitativa y cuantitativamente a los investigadores registrados en
+  el RENACYT
+- Analizar la percepción sobre las próximas elecciones municipales y regionales
+  por parte de alumnos de la UTEC
+- Describir una relación entre perfiles de estudiantes y su desempeño académico
 
 ## Primer tema
 Describir cualitativa y cuantitativamente a los investigadores registrados en el
 RENACYT
 
 ### Relevancia
-Estudiamos en una universidad de ingeniería, para sus alumnos, una posibilidad
-de trayectoria vocacional es la investigación. Por ello, pueden estar
-interesados en el perfil del investigador peruano. También podremos juzgar la
+Estudiamos en una universidad de ingeniería; para sus estudiantes, la
+investigación es una posible trayectoria profesional. Por ello, pueden estar
+interesados en el perfil del investigador peruano. También, podremos juzgar la
 participación femenina en un área dominada por el género masculino. Todo esto
 con datos actualizados hasta el 2022-02-25.
 
@@ -57,7 +58,7 @@ Género del investigador (`Masculino` o `Femenino`)
 
 #### `URL_CTI_Vitae`
 Variable categórica nominal  
-URL del investigador  
+URL del perfil del investigador  
 Actualmente inaccesible
 
 #### `grupo`
@@ -70,7 +71,7 @@ Categoría de _Investigador Distinguido_ asignado por el CONCYTEC
 
 #### `Fecha_de_inicio_de_vigencia`
 Variable categórica nominal  
-Ingreso del investigador en al registro RENACYT
+Ingreso del investigador al registro RENACYT
 
 #### `Fecha_fin_de_vigencia`
 Variable categórica nominal  
@@ -104,31 +105,27 @@ legible la información obtenida.
 
 ### Relevancia
 Después de 4 años se volverán a llevar a cabo las elecciones municipales y
-regionales, en esta actividad se trata de realizar una votación democrática y
-justa para elegir a los ciudadanos que ocupen los puestos de gobernadores regionales
-y alcaldes provinciales y distritales.
+regionales, en esta se busca lograr una votación democrática y justa para elegir
+a los ciudadanos que ocupen los puestos de gobernadores regionales y alcaldes
+provinciales y distritales.
 
-Desde hace unos años el Perú está en un círculo vicioso de actos de corrupción y
-una de las causas es la poca importancia que la población asigna a dar un voto
-consciente e informado y se la da más relevancia al populismo de cada postulante
-y a los favores políticos que posteriormente se comprueban como actos de
-corrupción. Esta mala situación del país se debe más que todo a la gran
-indiferencia que muestra la población hacia estos temas políticos. Es por esta
-razón que decidimos proponer este tema tan importante, ya que al sugerir este
-tema a los estudiantes de UTEC los incentivamos a tener un poco más de
-importancia hacia el tema y así poder investigar a los candidatos más a fondo.
-Consideramos que es de gran importancia saber cuánto saben los estudiantes del
-tema y también como punto a favor de este trabajo estadístico podremos conocer
-las preferencias políticas de cada uno de los encuestados.
+Desde hace unos años el Perú está en un círculo vicioso de actos de corrupción.
+Una de las causas es la poca importancia que la población asigna a dar un voto
+consciente e informado. Esta situación favorece políticos populistas que luego
+pagan favores políticos que muchas veces involucran actos corrupción. Por esta
+razón, decidimos proponer este tema para incentivar a los estudiantes de UTEC a
+que asuman un voto responsable previa investigación de los candidatos.
+Consideramos que es conveniente medir el conocimiento del estudiante sobre el
+tema y conocer las preferencias políticas de cada uno de los encuestados.
  
 ### Factibilidad
 
-En UTEC los estudiantes tienen un rango de edad de 17-25 años; los alumnos con
-edades entre 17 y 19 años aún no han participado en elecciones anteriores, son
-estos los que tomaremos como muestra para el estudio estadístico, por que es un
-grupo de estudiantes que no llevan mucho tiempo en la universidad y tienen más
-facilidad de acceder a contestar a nuestra encuesta, por otro lado tenemos un
-gran número de estudiantes para encuestar.
+Los estudiantes de la UTEC tienen un rango de edad de 17-25 años; los alumnos
+con edades entre 17 y 19 años aún no han sufragado, ellos serán los considerados
+para la muestra del estudio estadístico. Esperamos que estos alumnos que no
+llevan mucho tiempo en la universidad estén más predispuestos a participar en
+nuestra encuesta. Además, tenemos un gran número de estudiantes disponibles para
+encuestar.
 
 ### Descripción de variables 
 
@@ -169,24 +166,21 @@ Departamento en el que nació el estudiante
 
 Las elecciones municipales y regionales son uno de los eventos con mayor
 relevancia que se llevarán a cabo este año en nuestro país. Además, al ser
-estudiantes aún no participan en algún proceso electora estos tendrán más
+estudiantes que aún no participan en algún proceso electoral, tendrán más
 interés y expectación en el tema.
 
 #### ¿Qué información se desea aportar al final del estudio?
 
-La información que se aportará al final del estudio será: la intención de voto
-de los estudiantes de UTEC, la preferencia de los estudiantes de UTEC y su
-experiencia al realizar la primera votación.
+La información que se aportará al final del estudio será: la intención de voto y
+preferencia de los estudiantes de UTEC.
 
 #### ¿Es posible llegar a la información que se propone de manera específica y concreta?
 
-Sí es posible. Con ayuda de las encuestas y posteriormente un trabajo de
-investigación obtendremos la información que estamos buscando. Usaremos como
-principal método de recolección de datos a la encuesta y posiblemente alguno
-más, los cuales nos ayudarán a nuestro estudio, ya que esta se responderá de
-manera directa, por esta razón nosotros podremos confiar en los resultados que
-obtengamos y de esa manera obtener al final una información concreta y segura.
-
+Sí es posible. Con ayuda de las encuestas y el trabajo de investigación se
+obtendrá la información que estamos buscando. Usaremos como principal método de
+recolección de datos la encuesta y posiblemente, alguno más. Estos nos ayudarán
+a nuestro estudio, ya que esta se responderá de manera directa. Por esta razón,
+los obtendremos información fiable y segura que nos dará resultados confiables.
 
 ## Tercer tema
 
@@ -195,18 +189,18 @@ Hallar una relación entre perfiles de estudiantes y su desempeño académico
 ### Relevancia
 
 Como objetivo final se busca hallar una relación entre perfiles de estudiantes
-(sus hábitos de estudio, horas de sueño, tiempo en llegar a la universidad,
-nivel socioeconómico, etc) y las notas que obtenieron en ciclos pasados.
+(hábitos de estudio, horas de sueño, tiempo en llegar a la universidad, nivel
+socioeconómico, etc) y las notas que obtuvieron en ciclos pasados.
 
 ### Factibilidad
 
-Los datos serán recopilados mediantes encuestas que se realizaran a estudiantes
-de utec de diferentes ciclos y carreras, sin .
+Los datos serán recopilados mediantes encuestas que se realizarán a estudiantes
+de UTEC de diferentes ciclos y carreras.
 
 ### Descripción de variables 
 
 ### `Edad`
-Variable categórica ordinal  
+Variable numérica ordinal  
 Edad del estudiante en años
 
 ### `Género`
@@ -232,8 +226,7 @@ Carrera que el estudiante está cursando
 
 ### `Duración del desplazamiento a la universidad` 
 Variable numérica discreta  
-Duración del desplazamiento diario a la universidad, representadas en horas más
-grupos de 5 minutos
+Duración del desplazamiento diario a la universidad, representadas en horas a las que se le añade múltiplos de 5 minutos
 
 ### `Distrito de residencia`
 Variable categórica nominal  
@@ -259,11 +252,11 @@ Ver qué tanto aprendió el alumno el ciclo anterior
 
 #### ¿Es el estudio de interés para la audiencia?
 
-Sí, con los resultados se podrá saber que características poseen los alumnos con
-mejor desempeño académico. De esta forma los alumnos que estén presentando
-dificultades puedan obtener una referencia de lo que podrían hacer o aspectos en
-los que podrían mejorar y ver así si es que quizá alguna de sus características
-o hábitos sea causal de sus bajas notas.
+Sí, con los resultados se podrá conocer las características que poseen los
+alumnos con buen desempeño académico. De esta forma los estudiantes que estén
+presentando dificultades puedan obtener una referencia sobre qué aspectos
+podrían mejorar y determinar posibles características o hábitos que originen su
+bajo rendimiento.
 
 #### ¿Qué información se desea aportar al final del estudio?
 
@@ -272,6 +265,6 @@ aprendizaje de los alumnos.
 
 #### ¿Es posible llegar a la información que se propone de manera específica y concreta?
 
-Claro, ya qué con el estudio de la base de datos y mediante el uso de
+Claro, ya que con el estudio de la base de datos y mediante el uso de
 descriptores numéricos, gráficos y otras herramientas se pueda llegar a tener
-información que sea robusta, legible y específica.
+información confiable y específica.
