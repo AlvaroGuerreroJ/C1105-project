@@ -1,6 +1,8 @@
 ---
 title: "Group 8 - Proyecto Pre-entrega"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 # Integrantes
